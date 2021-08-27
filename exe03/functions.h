@@ -1,2 +1,2 @@
 
-int somar(int n1, int n2);
+void Menor_Maior(int v[], int n, int  *menor, int *maior);
